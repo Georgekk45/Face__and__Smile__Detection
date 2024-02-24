@@ -1,1 +1,1 @@
-# Face__and__Smile__Detection
+# Face and smile detection pythons script
