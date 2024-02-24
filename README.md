@@ -1,1 +1,1 @@
-# Face and smile detection pythons script
+# Face and smile detection python script
